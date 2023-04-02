@@ -1,3 +1,7 @@
 import CustomButton from "./CustomButton"
+import AiPicker from "./AiPicker"
+import FilePicker from "././FilePicker"
+import Tab from "./Tab"
+import ColorPicker from "./ColorPicker"
 
-export { CustomButton }
+export { CustomButton, AiPicker, FilePicker, Tab, ColorPicker }
